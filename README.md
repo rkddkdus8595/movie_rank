@@ -12,6 +12,9 @@
 -> 분기별 영화 장르 수 시각화 차트 <br>
 (while문을 통해 반복 종료 선택 있음)
 
+### Data 
+> 영화진흥위원회 API 사용
+
 ### implementation photograph
 <img src = "https://user-images.githubusercontent.com/76616541/182022357-0f882c01-1796-42be-a923-fc54defa5a3d.png">
 ------------------------ <br>
