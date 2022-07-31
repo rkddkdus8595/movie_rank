@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\BigData_Project\bigdata_201744037\.metadata\.plugins\org.eclipse.core.resources\.projects\20190930\com.python.pydev.analysis\v2_indexcache
+pandas_test|1569822424000000000|C:\20190930\src\pandas_test.py
+excel_get|1569826464000000000|C:\20190930\src\excel_get.py
+excel_get2|1570714763108440000|C:\20190930\src\excel_get2.py
+pandas_test3|1570711312742582000|C:\20190930\src\pandas_test3.py
+pandas_test2|1569823268000000000|C:\20190930\src\pandas_test2.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=pandas_test
+4=excel_get
+7=C:\20190930\src\pandas_test3.py
+9=C:\20190930\src\pandas_test2.py
+3=C:\20190930\src\excel_get.py
+1=C:\20190930\src\excel_get2.py
+5=C:\20190930\src\pandas_test.py
+2=excel_get2
+8=pandas_test3
+10=pandas_test2
+-- END DICTIONARY
+-- START TREE 1
+12
+col|3|columnList2!1^16#1*19@columnList3!1^17#1*19@columnList!1^15#1*19@
+dat|2|data2011!3^9#1*35@data2011_m!3^10#1*35@
+df|4|df!1^22#5*19@df!5^16#5*51@df!7^9#1*67@df!9^12#5*83@
+df2|1|df2!1^24#5*19@
+exc|6|excel_data_files!5^12#1*51@excel_writer!3^18#1*35@excel_files!1^19#1*19@excel_data_files1!9^10#1*83@excel_file_name!5^21#1*51@excel_total_file_writer!5^22#1*51@
+f_n|2|f_new!9^19#5*83@f_new!1^30#5*19@
+han|5|handbag_total2!7^24#1*67@handbag!7^19#1*67@handbag_sum2!7^23#1*67@handbag_sum!7^20#1*67@handbag_total!7^21#1*67@
+ind|1|index!1^20#1*19@
+new|1|new_excel_file!9^21#5*83@
+pro|1|product_name!7^18#1*67@
+sav|1|SaveData!1^10#5*18@
+tot|1|total_data!5^14#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

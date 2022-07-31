@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\BigData_Project\bigdata_201744037\.metadata\.plugins\org.eclipse.core.resources\.projects\20190909\com.python.pydev.analysis\v2_indexcache
+SyntaxExample|1568015558000000000|C:\20190909\src\SyntaxExample.py
+io_example|1568011506000000000|C:\20190909\src\io_example.py
+test|1570339834264299000|C:\20190909\src\test.py
+ifExample|1568013748000000000|C:\20190909\src\ifExample.py
+FileIOExample|1568012862000000000|C:\20190909\src\FileIOExample.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=SyntaxExample
+2=io_example
+3=C:\20190909\src\FileIOExample.py
+10=test
+5=C:\20190909\src\SyntaxExample.py
+7=C:\20190909\src\ifExample.py
+8=ifExample
+9=C:\20190909\src\test.py
+4=FileIOExample
+1=C:\20190909\src\io_example.py
+-- END DICTIONARY
+-- START TREE 1
+11
+are|1|area!1^14#1*19@
+c|1|c!1^13#1*19@
+col|1|colors!3^18#1*35@
+dic|1|dicts!5^13#1*51@
+fru|1|fruit!1^9#1*19@
+fs|1|fs!3^12#1*35@
+gra|1|grade!7^8#1*67@
+i|1|i!5^19#1*51@
+num|1|numberList!5^18#1*51@
+sco|6|score_list!9^11#1*83@score_set!9^10#1*83@score_one!9^22#1*83@score_copy1!9^17#1*83@score!9^9#1*83@score!7^7#1*67@
+tes|1|test!3^13#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

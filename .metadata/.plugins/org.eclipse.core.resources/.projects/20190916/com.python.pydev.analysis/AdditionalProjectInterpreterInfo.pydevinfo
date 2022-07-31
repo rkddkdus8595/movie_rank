@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\BigData_Project\bigdata_201744037\.metadata\.plugins\org.eclipse.core.resources\.projects\20190916\com.python.pydev.analysis\v2_indexcache
+slicing|1568618310000000000|C:\20190916\src\slicing.py
+indexing|1568619134000000000|C:\20190916\src\indexing.py
+one|1568614940000000000|C:\20190916\src\one.py
+array_function|1568618304000000000|C:\20190916\src\array_function.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+6=slicing
+13=LaserPrinter.__init__
+4=indexing
+8=one
+10=InkjetPrinter
+12=Printer
+2=array_function
+3=C:\20190916\src\indexing.py
+5=C:\20190916\src\slicing.py
+7=C:\20190916\src\one.py
+9=LaserPrinter
+1=C:\20190916\src\array_function.py
+11=InkjetPrinter.__init__
+-- END DICTIONARY
+-- START TREE 1
+11
+a|3|a!1^9#1*19@a!3^15#1*35@a!5^17#1*51@
+arr|1|arr!5^15#1*51@
+boo|1|bool_indexing_array!3^33#1*35@
+ink|2|InkjetPrinter!7^31#7*65@inkjet!7^41#1*67@
+las|2|LaserPrinter!7^22#7*65@laser!7^39#1*67@
+lst|2|lst!3^13#1*35@lst!5^13#1*51@
+n|1|n!3^35#1*35@
+pow|1|power!7^8#1*67@
+pri|1|Printer!7^13#7*65@
+s|1|s!3^16#1*35@
+use|1|usePower!7^9#5*66@
+-- END TREE
+-- START TREE 2
+5
+__i|2|__init__!9&7^23#9*66@__init__!10&7^32#9*66@
+ink|1|ink!11&7^33#9*67@
+pap|1|paper!12&7^14#5*67@
+pri|4|print2!12&7^20#5*67@prints!12&7^15#9*66@prints!9&7^25#9*66@prints!10&7^34#9*66@
+ton|1|toner!13&7^24#9*67@
+-- END TREE

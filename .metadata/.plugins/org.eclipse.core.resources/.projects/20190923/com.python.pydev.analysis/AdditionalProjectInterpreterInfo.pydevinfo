@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\BigData_Project\bigdata_201744037\.metadata\.plugins\org.eclipse.core.resources\.projects\20190923\com.python.pydev.analysis\v2_indexcache
+pandas_test|1569219140000000000|C:\20190923\src\pandas_test.py
+numpy_test|1569218438000000000|C:\20190923\src\numpy_test.py
+pandas_test5|1570690851565230000|C:\20190923\src\pandas_test5.py
+pandas_test4|1569224616000000000|C:\20190923\src\pandas_test4.py
+pandas_test3|1569222346000000000|C:\20190923\src\pandas_test3.py
+pandas_test2|1569221104000000000|C:\20190923\src\pandas_test2.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=C:\20190923\src\pandas_test2.py
+1=C:\20190923\src\pandas_test3.py
+4=pandas_test
+7=C:\20190923\src\pandas_test4.py
+6=numpy_test
+12=pandas_test5
+8=pandas_test4
+11=C:\20190923\src\pandas_test5.py
+2=pandas_test3
+3=C:\20190923\src\pandas_test.py
+5=C:\20190923\src\numpy_test.py
+10=pandas_test2
+-- END DICTIONARY
+-- START TREE 1
+21
+bmi|1|bmi!1^17#1*19@
+col|1|columns_list!3^15#1*35@
+d|1|d!5^16#1*51@
+dat|2|data2!5^20#1*51@data3!5^24#1*51@
+df|1|df!7^10#1*67@
+df1|2|df1!9^11#1*83@df1!7^17#1*67@
+df2|3|df2!7^23#1*67@df2!5^21#1*51@df2!9^13#1*83@
+df3|3|df3!9^14#1*83@df3!5^25#1*51@df3!3^17#1*35@
+df4|2|df4!9^15#1*83@df4!5^27#1*51@
+df5|1|df5!9^16#1*83@
+df_|1|df_WH!1^14#1*19@
+exc|3|excel_exam_data2!7^22#1*67@excel_exam_data1!7^16#1*67@excel_writer2!7^25#1*67@
+gro|1|grouped!11^14#1*99@
+ind|1|index_list!3^16#1*35@
+mea|1|means!11^15#1*99@
+rai|1|rainAmount!1^8#1*19@
+ran|1|randArray!11^18#1*99@
+rme|1|rMeans!11^19#1*99@
+s|1|s!5^10#1*51@
+tab|1|table_data3!3^13#1*35@
+tip|1|tips!11^10#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
